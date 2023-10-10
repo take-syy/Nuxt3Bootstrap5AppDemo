@@ -1,5 +1,5 @@
 <template>
   <div class="container">
-    <h1>こんにちは世界!!</h1>
+    <h1>京都テックに関してのWebサイト</h1>
   </div>
 </template>
