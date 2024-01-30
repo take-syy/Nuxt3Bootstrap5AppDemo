@@ -1,5 +1,9 @@
+<script setup lang="ts">
+const foo = 
+</script>
+
 <template>
-  <NuxtLayout>
-    <NuxtPage />
-  </NuxtLayout>
+  <div>
+    {{ foo }}
+  </div>
 </template>
